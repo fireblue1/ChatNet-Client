@@ -1,0 +1,8 @@
+[
+    {"expression": "wonderful", "style": "bold"},
+    {"expression": "hello", "style": "yellow"},
+    {"expression": "^(gold|blue)", "style": "italic"},
+    {"expression": "potatoes", "style": "underline"},
+    {"expression": "Florida", "style": "green"},
+    {"expression": "JP", "style": "red"}
+]
